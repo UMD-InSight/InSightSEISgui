@@ -1,6 +1,10 @@
 # InSight_seisGUI
 A graphical user interface to download, process, and visualise InSight (VBB) seismic data
 
+## Contributors
+
+Foivos Karakostas, Ross Maguire, Doyeon Kim, Nick Schmerr, Ved Lekić, Jessica Irving - the University of Maryland, College Park, InSight group.
+
 ## Dependencies
 
 The script has some dependencies and the following packages should be installed in order to run it: 
