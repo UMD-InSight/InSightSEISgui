@@ -1,4 +1,4 @@
-# InSight_seisgui
+# InSightSEISgui
 
 [![DOI](https://zenodo.org/badge/587484458.svg)](https://zenodo.org/badge/latestdoi/587484458)
 
