@@ -6,7 +6,7 @@ A graphical user interface to download, process, and visualise InSight (VBB) sei
 
 ## Contributors
 
-Foivos Karakostas, Ross Maguire, Doyeon Kim, Nick Schmerr, Ved Lekić, Jessica Irving - the University of Maryland, College Park, InSight group.
+Foivos Karakostas, Ross Maguire, Doyeon Kim, Quancheng Huang, Nick Schmerr, Ved Lekić, Jessica Irving - the University of Maryland, College Park, InSight group.
 
 ## Dependencies
 
@@ -53,7 +53,7 @@ When you have the desired figures, you can export both spectrograms and seismogr
 
 ## Citations and acknowledgements
 
-The scripts of this repository download Mars InSight seismic data from IRIS. It is developped by Foivos Karakostas, Ross Maguire, Doyeon Kim, Nick Schmerr, Ved Lekić, Jessica Irving - the University of Maryland, College Park, InSight group. Please acknowledge.
+The scripts of this repository download Mars InSight seismic data from IRIS. It is developped by Foivos Karakostas, Ross Maguire, Doyeon Kim, Quancheng Huang, Nick Schmerr, Ved Lekić, Jessica Irving - the University of Maryland, College Park, InSight group. Please acknowledge.
 
 When you use InSight SEIS Data, please follow the [citation instructions](https://www.seis-insight.eu/en/science/seis-data/seis-citation-information) that are also copied here:
 
