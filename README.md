@@ -1,4 +1,7 @@
 # InSight_seisGUI
+
+[![DOI](https://zenodo.org/badge/587484458.svg)](https://zenodo.org/badge/latestdoi/587484458)
+
 A graphical user interface to download, process, and visualise InSight (VBB) seismic data
 
 ## Contributors
