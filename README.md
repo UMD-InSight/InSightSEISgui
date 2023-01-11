@@ -44,7 +44,7 @@ In order to visualise the seismograms you should define the low and high frequen
 
 When you make new seismograms, the spectrograms are showing the minimum and maximum frequency, as well as the minimum and maximum time, with white dashed lines. You can use this feature to select correctly the event associated signal.
 
-When you have the desired figures, you can export both spectrograms and seismograms with the respective "Export figure buttons". The figures are saved in the "Figures/Spectrograms" and "Figures/Seismograms" directories respectively.
+When you have the desired figures, you can export both spectrograms and seismograms with the respective "Export figure" buttons. The figures are saved in the "Figures/Spectrograms" and "Figures/Seismograms" directories respectively.
 
 ### Screenshot
 
